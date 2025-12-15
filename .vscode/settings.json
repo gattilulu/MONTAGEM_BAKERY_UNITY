@@ -59,9 +59,10 @@
     "files.associations": {
         "*.asset": "yaml",
         "*.meta": "yaml",
-        "*.prefab": "yaml",
+        "*.prefab": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
     },
+    "dotnet.defaultSolution": "MONTAGEM_BAKERY_UNITY.sln"
 }
